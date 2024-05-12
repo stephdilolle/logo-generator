@@ -1,0 +1,27 @@
+{
+  "name": "logo-generator",
+  "version": "1.0.0",
+  "description": "logo generator to create a logo as an svg file",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephdilolle/logo-generator.git"
+  },
+  "keywords": [
+    "logo",
+    "generator"
+  ],
+  "author": "Stephanie DiLolle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephdilolle/logo-generator/issues"
+  },
+  "homepage": "https://github.com/stephdilolle/logo-generator#readme"
+}
