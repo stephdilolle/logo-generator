@@ -3,11 +3,11 @@
 ## Description
 
 - What was your motivation?
-To create a logo generator to be able to generate a simple logo for my projects so that I don't have to hire a graphic designer.
+-- To create a logo generator to be able to generate a simple logo for my projects so that I don't have to hire a graphic designer.
 - What problem does it solve?
-It allows the user to easily and quickly create a simple logo.
+-- It allows the user to easily and quickly create a simple logo.
 - What did you learn?
-I became more familiar with Node and I learned how to write my own tests and run them using Jest.
+-- I became more familiar with Node and I learned how to write my own tests and run them using Jest.
 
 ## Table of Contents
 
@@ -28,8 +28,9 @@ Provide instructions and examples for use. Include screenshots as needed.
 1. Run node index.js to initiate the prompt
 2. Once the user has answered the questions, a logo.svg will be generated.
 3. Open the logo.svg in the browser to see the logo image.
-VIDEO WALKTHROUGH: <link>
-SCREENSHOT OF EXAMPLE LOGO: ![example logo](assets/images/screenshot.png)
+- Video walkthrough: (https://drive.google.com/file/d/17SP3s97XsnGcax81e01gOHHt_quXBT1S/view?usp=sharing)
+- Screenshot of example logo: 
+- ![example logo](assets/logo_example.png)
 
 ## License
 
